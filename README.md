@@ -13,4 +13,4 @@ It has two open-world maps, one of which is very large.
 - Disl memory: 100mb
 - Graphics Card:  Any
 
-### In master origin, you have the files . In the main origin you have the arhive
+### In master branch, you have the files . In the main branch you have the readme, go to the master branch
