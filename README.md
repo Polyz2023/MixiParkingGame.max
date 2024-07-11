@@ -8,7 +8,7 @@ The game is relaxing for those who like to ride.
 It has two open-world maps, one of which is very large.
 
 ## System Requirements
-Proccessor: > ryzen 5 4500u (or better)
-RAM: > 6gb
-Disl memory: > 100mb
-Graphics Card: > Any
+- Proccessor: ryzen 5 4500u (or better)
+- RAM:  6gb
+- Disl memory: 100mb
+- Graphics Card:  Any
