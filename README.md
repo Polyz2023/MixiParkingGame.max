@@ -12,3 +12,5 @@ It has two open-world maps, one of which is very large.
 - RAM:  6gb
 - Disl memory: 100mb
 - Graphics Card:  Any
+
+### In master origin, you have the files . In the main origin you have the arhive
